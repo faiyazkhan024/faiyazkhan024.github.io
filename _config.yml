@@ -1,0 +1,6 @@
+theme: jekyll-theme-hacker
+title: Faiyaz Khan
+description: Portfolio page.
+# google_analytics: [Your Google Analytics tracking ID]
+show_downloads: false
+include: [.well-known]

@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: faiyazkhan024.github.io
+Token: 3ce7aad05e61c0eb51109c37f1a09285fca4be8e83a74a7384ee3de12b871379

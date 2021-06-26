@@ -1,0 +1,12 @@
+{
+  "name": "faiyazkhan024.github.io",
+  "version": "1.0.0",
+  "description": "A ✨special✨ repository to host a web site/blog on GitHub.",
+  "author": "Faiyaz Khan (Zarof)",
+  "license": "MIT",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
